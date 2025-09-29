@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm Omar Hisham 👋
+
+I'm a Computer Science student and backend developer focused on ASP.NET Core, fullstack web development, and machine learning. I love building **real-world projects**, solving **complex problems**, and learning **new technologies**.
+
 
 <!--
 **Oh011/Oh011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
