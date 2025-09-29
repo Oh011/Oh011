@@ -31,6 +31,12 @@ Inventory & Order Management System built with ASP.NET Core & Clean Architecture
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oh011&layout=compact&theme=radical)
 
 
+## 📫 Reach Me At
+- LinkedIn: [Omar Hisham](https://www.linkedin.com/in/omar011-hisham/)  
+- Email: ohisham011@gmail.com
+
+
+
 
 
 <!--
