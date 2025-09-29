@@ -7,18 +7,21 @@ I'm a Computer Science student and backend developer focused on ASP.NET Core, fu
 
 **Languages:** C#, C++, Python, SQL, JavaScript  
 **Frameworks & Libraries:** .NET Core, ASP.NET, Angular, Entity Framework, Scikit-Learn (for ML projects)  
-**Databases:** SQL Server, MySQL  
+**Databases:** SQL Server, PostgreSQL  
 **Tools & Others:** Git, GitHub, Docker, Visual Studio  
-
-
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
+
 
 
 
