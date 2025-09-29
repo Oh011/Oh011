@@ -17,7 +17,7 @@ I'm a Computer Science student and backend developer focused on ASP.NET Core, fu
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+
 </p>
 
 
