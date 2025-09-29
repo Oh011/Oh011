@@ -14,13 +14,13 @@ I'm a Computer Science student and backend developer focused on ASP.NET Core, fu
 
 ## 🚀 Featured Projects
 
-- **[Virtual Machine (C++)](https://github.com/Oh011/VirtualMachine)**  
+- **[Virtual Machine (C++)](https://github.com/Oh011/Machine-simulator)**  
   A custom CPU simulator with memory, registers, and an instruction set (ADD, OR, XOR, jumps).  
 
-- **[Inventory System (ASP.NET)](https://github.com/Oh011/SmartInventory)**  
+- **[Inventory System (ASP.NET)](https://github.com/Oh011/Inventory_system)**  
 Inventory & Order Management System built with ASP.NET Core & Clean Architecture. Features include role-based authentication, product & category management, purchase orders, sales invoicing, real-time stock control, PDF export, notifications, and reporting.
 
-- **[URL Shortener (ASP.NET Core)](https://github.com/Oh011/UrlShortener)**  
+- **[URL Shortener (ASP.NET Core)](https://github.com/Oh011/url-shortener)**  
   Lightweight and scalable URL shortening service with analytics.  
 
 
