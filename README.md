@@ -28,6 +28,9 @@ Inventory & Order Management System built with ASP.NET Core & Clean Architecture
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oh011&show_icons=true&theme=radical)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oh011&layout=compact&theme=radical)
+
+
 
 
 <!--
