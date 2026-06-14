@@ -35,7 +35,7 @@ I enjoy designing systems with real-world constraints like performance, consiste
 
 ### 🧾 Inventory & Order Management System
 🔗 GitHub: https://github.com/Oh011/Inventory_system  
-🔗 API (Swagger): **[ADD DEPLOYED LINK HERE]**
+🔗 API (Swagger): **[http://smartinventory.runasp.net/swagger]**
 
 A full-scale backend system built with ASP.NET Core using Clean Architecture and CQRS.
 
@@ -51,7 +51,7 @@ A full-scale backend system built with ASP.NET Core using Clean Architecture and
 
 ### 🔔 Notification Service
 🔗 GitHub: https://github.com/Oh011/notification-service  
-🔗 API (Swagger): **[ADD DEPLOYED LINK HERE]**
+
 
 Event-driven notification system built for scalable messaging.
 
@@ -66,7 +66,7 @@ Event-driven notification system built for scalable messaging.
 
 ### 🔗 URL Shortener System
 🔗 GitHub: https://github.com/Oh011/url-shortener  
-🔗 API (Swagger): **[ADD DEPLOYED LINK HERE]**
+🔗 API (Swagger): **[http://swifturl.runasp.net/swagger]**
 
 Scalable URL shortening service designed with real-world constraints.
 
