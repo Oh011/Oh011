@@ -1,6 +1,6 @@
 # Hi, I'm Omar Hisham 👋
 
-I'm a Backend Software Engineer (ASP.NET Core) and Computer Science student at Cairo University (AI Department).
+I'm a Backend Software Engineer (ASP.NET Core) and Computer Science student at Cairo University.
 
 I focus on building **scalable backend systems**, **distributed architectures**, and **event-driven applications** using .NET technologies.
 
