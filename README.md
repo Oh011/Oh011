@@ -89,6 +89,7 @@ Custom CPU simulator implementing low-level instructions and memory operations.
 🔗 GitHub: https://github.com/Oh011/E-commerce  
 🔗 Live: https://oh011.github.io/E-commerce  
 
+A modern single-page e-commerce application built with Angular and TypeScript.
 ---
 
 ## 📊 GitHub Stats
