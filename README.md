@@ -1,75 +1,105 @@
 # Hi, I'm Omar Hisham 👋
 
-I'm a Computer Science student and backend developer focused on ASP.NET Core, fullstack web development, and machine learning. I love building **real-world projects**, solving **complex problems**, and learning **new technologies**.
+I'm a Backend Software Engineer (ASP.NET Core) and Computer Science student at Cairo University (AI Department).
 
+I focus on building **scalable backend systems**, **distributed architectures**, and **event-driven applications** using .NET technologies.
+
+I enjoy designing systems with real-world constraints like performance, consistency, caching, and messaging.
+
+---
+
+## 🧠 What I Do
+
+- Backend Development with ASP.NET Core
+- Clean Architecture & CQRS
+- Distributed Systems (RabbitMQ, Redis, Background Jobs)
+- API Design & System Design
+- Database Design (SQL Server, PostgreSQL)
+- Basic Frontend Integration (Angular)
+
+---
 
 ## 🛠 Skills & Tools
 
 **Languages:** C#, C++, Python, SQL, JavaScript  
-**Frameworks & Libraries:** .NET Core, ASP.NET, Angular, Entity Framework, Scikit-Learn (for ML projects)  
+**Backend:** ASP.NET Core, EF Core, MediatR, SignalR  
+**Architecture:** Clean Architecture, CQRS, DDD basics  
+**Messaging & Caching:** RabbitMQ, Redis  
 **Databases:** SQL Server, PostgreSQL  
-**Tools & Others:** Git, GitHub, Visual Studio  
+**Dev Tools:** Git, Docker, Visual Studio  
+**Concepts:** System Design, SOLID, Design Patterns, Distributed Systems  
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-</p>
-
-
-
-
-
+---
 
 ## 🚀 Featured Projects
 
+### 🧾 Inventory & Order Management System
+🔗 GitHub: https://github.com/Oh011/Inventory_system  
+🔗 API (Swagger): **[ADD DEPLOYED LINK HERE]**
 
-- **[Virtual Machine (C++)](https://github.com/Oh011/Machine-simulator)**  
-  A custom CPU simulator with memory, registers, and an instruction set (ADD, OR, XOR, jumps).  
+A full-scale backend system built with ASP.NET Core using Clean Architecture and CQRS.
 
-- **[Inventory System (ASP.NET)](https://github.com/Oh011/Inventory_system)**  
-  Inventory & Order Management System built with ASP.NET Core & Clean Architecture. Features include role-based authentication, product & category management, purchase orders, sales invoicing, real-time stock control, PDF export, notifications, and reporting.
+- 70+ REST APIs covering full business workflow (inventory, sales, purchasing)
+- Role-based authentication (JWT + Refresh Tokens)
+- Real-time updates using SignalR
+- Domain Events for decoupled architecture
+- Background processing with Hangfire
+- PDF generation for invoices and reports
+- Optimistic concurrency control for stock safety
 
-- **[URL Shortener (ASP.NET Core)](https://github.com/Oh011/url-shortener)**  
-  Lightweight and scalable URL shortening service with analytics.
+---
 
-- **[Fresh Cart – E-Commerce Frontend](https://github.com/Oh011/E-commerce)**  
-  Responsive SPA built with **Angular, TypeScript, RxJS, and Stripe API**.  
-  Features: product search, filtering, cart, wishlist, and full checkout flow.  
-  👉 [Live Demo](https://oh011.github.io/E-commerce)
+### 🔔 Notification Service
+🔗 GitHub: https://github.com/Oh011/notification-service  
+🔗 API (Swagger): **[ADD DEPLOYED LINK HERE]**
 
-  
-  ## 📊 GitHub Stats
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oh011&show_icons=true&theme=radical)
+Event-driven notification system built for scalable messaging.
 
+- RabbitMQ-based event processing pipeline
+- Queue separation per channel (Email / In-App)
+- Retry mechanism + Dead Letter Queue (DLQ)
+- Redis caching for subscribers and preferences
+- API Key secured external integration layer
+- Supports high-throughput async notifications
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oh011&layout=compact&theme=radical)
+---
 
+### 🔗 URL Shortener System
+🔗 GitHub: https://github.com/Oh011/url-shortener  
+🔗 API (Swagger): **[ADD DEPLOYED LINK HERE]**
 
-## 📫 Reach Me At
-- LinkedIn: [Omar Hisham](https://www.linkedin.com/in/omar011-hisham/)  
+Scalable URL shortening service designed with real-world constraints.
+
+- Base62 short code generation (collision-safe)
+- PostgreSQL sharding with consistent hashing
+- Redis caching achieving high redirect hit rate
+- Async analytics tracking using background jobs
+- Designed for high read/write ratio workloads
+
+---
+
+### 🖥 Virtual Machine (C++)
+🔗 GitHub: https://github.com/Oh011/Machine-simulator  
+
+Custom CPU simulator implementing low-level instructions and memory operations.
+
+---
+
+### 🛒 Fresh Cart – Angular E-Commerce
+🔗 GitHub: https://github.com/Oh011/E-commerce  
+🔗 Live: https://oh011.github.io/E-commerce  
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Oh011&show_icons=true&theme=radical)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oh011&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/omar011-hisham/  
 - Email: ohisham011@gmail.com
-
-
-
-
-
-<!--
-**Oh011/Oh011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
