@@ -23,11 +23,11 @@ I enjoy designing systems with real-world constraints like performance, consiste
 
 **Languages:** C#, C++, Python, SQL, JavaScript  
 **Backend:** ASP.NET Core, EF Core, MediatR, SignalR  
-**Architecture:** Clean Architecture, CQRS, DDD basics  
+**Architecture:** Clean Architecture, CQRS  
 **Messaging & Caching:** RabbitMQ, Redis  
 **Databases:** SQL Server, PostgreSQL  
 **Dev Tools:** Git, Docker, Visual Studio  
-**Concepts:** System Design, SOLID, Design Patterns, Distributed Systems  
+**Concepts:** System Design, SOLID, Design Patterns
 
 ---
 
