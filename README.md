@@ -50,7 +50,7 @@ A full-scale backend system built with ASP.NET Core using Clean Architecture and
 ---
 
 ### 🔔 Notification Service
-🔗 GitHub: https://github.com/Oh011/notification-service  
+🔗 GitHub: https://github.com/Oh011/NotificationService 
 
 
 Event-driven notification system built for scalable messaging.
